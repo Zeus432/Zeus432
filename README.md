@@ -1,5 +1,7 @@
 ### Hello There 👋
 
+![GIF](https://cdn.discordapp.com/attachments/825980018794299463/894523398720479242/23bd0157d8aaa3885bdd4273e8a91178.gif)
+
 I'm Zeus a relatively new python developer. I mostly code Discord Bots     
 Here are a couple of my projects:
  - **Horus** is a fun to use Discord Bot written in Python
