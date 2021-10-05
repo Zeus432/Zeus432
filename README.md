@@ -1,4 +1,6 @@
-## Hello There 👋
+### Hello There 👋
+
+---
 
 <p align="center">
    <img src="https://cdn.discordapp.com/attachments/825980018794299463/894977404903239710/banner.gif" width="960px"/>
