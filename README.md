@@ -11,7 +11,7 @@
 I'm Zeus a relatively new python developer. I'm currently interested in coding discord bots.   
 Here are a couple of my projects, all discord bots :
  - **Horus** is a fun to use Discord Bot which I intend on developing to include more features whenever my teachers are not trying to bury me in assignements lmao. It's written in **[discord.py](https://github.com/Rapptz/discord.py)**
- - **Orion** is more of a basic bot, mostly an experiment for me to learn **[discord.js](https://github.com/discordjs/discord.js)**
+ - **[Orion](https://github.com/Zeus432/Orion)** is more of a basic bot, also written in discord.py.
  
  
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=zeus432&show_icons=true&locale=en&theme=radical" alt="zeus" /></p>
